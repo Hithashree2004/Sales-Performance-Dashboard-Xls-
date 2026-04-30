@@ -36,7 +36,9 @@ This project presents an interactive Sales Performance Dashboard built using Mic
 
 ## 📊 Dashboard Preview
 
-![Dashboard](excel_dashboard.png)
+<p align="center">
+  <img src="dashboard.png" width="800"/>
+</p>
 
 ---
 
